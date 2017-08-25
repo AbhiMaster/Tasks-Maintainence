@@ -19,10 +19,10 @@ angular.module("widget", [])
 				            '<i class="fa fa-times"></i>' +
 				            '</button>' +
 				            '<button ng-click="minimize();" id="whiteframe4" ng-show="condition" aria-label="Minimize" class="icon-button btn btn-default">' +
-				            '<i class="fa fa-window-minimize"></i>' +
+				            '<i class="fa fa-clone"></i>' +
 				            '</button>' +
 				            '<button ng-click="maximize();" id="whiteframe5" ng-show="!condition" aria-label="Maximize" class="icon-button btn btn-default">' +
-				            '<i class="fa fa-window-maximize"></i>' +
+				            '<i class="fa fa-square-o"></i>' +
 				            '</button>' +
 			            '</div>' +
 			        '</div>' +
